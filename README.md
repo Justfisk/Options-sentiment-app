@@ -10,7 +10,7 @@ Mobile-Friendly — Wide layout with clean Streamlit UI
 
  Quick Start1. Clone the repobash
 
-git clone https://github.com/Justfisk/options-sentiment-analyzer.git
+git clone https://github.com/Pyrodark/options-sentiment-app.git
 cd options-sentiment-analyzer
 
 2. Install dependenciesbash
